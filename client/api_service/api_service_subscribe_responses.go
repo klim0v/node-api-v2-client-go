@@ -14,7 +14,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/MinterTeam/minter-go-sdk/api/v2/models"
+	"github.com/klim0v/node-api-v2-client-go/models"
 )
 
 // APIServiceSubscribeReader is a Reader for the APIServiceSubscribe structure.

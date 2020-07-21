@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/MinterTeam/minter-go-sdk/api/v2/models"
+	"github.com/klim0v/node-api-v2-client-go/models"
 )
 
 // APIServiceBlockReader is a Reader for the APIServiceBlock structure.
